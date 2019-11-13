@@ -50,5 +50,17 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
-  }
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smitan1394/pheww.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smitan1394/pheww/issues"
+  },
+  "homepage": "https://github.com/smitan1394/pheww#readme",
+  "description": ""
 }
